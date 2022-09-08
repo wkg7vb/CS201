@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\walte\Documents\COMP SCI 201R\LABS\lab5-wkg7vb\Lab 5\main.cpp(6,7): warning C4101: 'input': unreferenced local variable
+  functions.cpp
+  Generating Code...
+C:\Users\walte\Documents\COMP SCI 201R\LABS\lab5-wkg7vb\Lab 5\functions.cpp(95): warning C4715: 'again': not all control paths return a value
+  Lab 5.vcxproj -> C:\Users\walte\Documents\COMP SCI 201R\LABS\lab5-wkg7vb\Lab 5\x64\Debug\Lab 5.exe

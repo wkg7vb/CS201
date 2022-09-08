@@ -1,0 +1,20 @@
+Electronics Supplies Inventory
+
+Department     Name                Quanitiy       Price(each)    Price(total)   
+E              laptop              5              $1200.00       $6000.00       
+E              flashdrive          500            $7.50          $3750.00       
+E              portablecharger     40             $32.00         $1280.00       
+E              heater              35             $58.00         $2030.00       
+
+Value of of Items in Electronics Supplies Inventory: $13060.00
+
+Office Supplies Inventory
+
+Department     Name                Quanitiy       Price(each)    Price(total)   
+O              staplers            100            $6.00          $600.00        
+O              binder              250            $5.15          $1287.50       
+O              computerdesk        10             $189.00        $1890.00       
+O              deskmat             150            $33.00         $4950.00       
+
+Value of of Items in Office Supplies Inventory: $8727.50
+

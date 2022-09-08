@@ -1,0 +1,3 @@
+﻿  funtions.cpp
+C:\Users\walte\Documents\COMP SCI 201R\PROJECTS\Walter Gilliam COMP SCI 201R Project 4\funtions.cpp(6,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Walter Gilliam COMP SCI 201R Project 4.vcxproj -> C:\Users\walte\Documents\COMP SCI 201R\PROJECTS\Walter Gilliam COMP SCI 201R Project 4\x64\Debug\Walter Gilliam COMP SCI 201R Project 4.exe
